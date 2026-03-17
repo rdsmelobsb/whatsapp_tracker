@@ -33,5 +33,3 @@ python nome_do_seu_arquivo.py
 ```
 Você verá o progresso no terminal e, em poucos segundos, os dados começarão a aparecer na sua planilha!
 ```
-
-Para deixar o seu projeto com uma cara ainda mais profissional e fácil de instalar, quer que eu te mostre como criar um arquivo `requirements.txt` com a lista de bibliotecas?
