@@ -1,4 +1,3 @@
-```markdown
 # 📊 WhatsApp Channels Scraper
 
 Um script em Python para extrair o nome e a quantidade de seguidores de canais do WhatsApp e salvar os dados automaticamente em uma planilha do Google Sheets.
