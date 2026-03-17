@@ -29,7 +29,7 @@ O código precisa de duas variáveis no seu sistema operacional para conseguir a
 ### 4. Rode o código
 Com tudo configurado, basta executar o arquivo Python no seu terminal:
 ```bash
-python nome_do_seu_arquivo.py
+python whatsapp_scrapper.py
 ```
 Você verá o progresso no terminal e, em poucos segundos, os dados começarão a aparecer na sua planilha!
 ```
