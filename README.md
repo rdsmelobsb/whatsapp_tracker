@@ -32,4 +32,3 @@ Com tudo configurado, basta executar o arquivo Python no seu terminal:
 python whatsapp_scrapper.py
 ```
 Você verá o progresso no terminal e, em poucos segundos, os dados começarão a aparecer na sua planilha!
-```
